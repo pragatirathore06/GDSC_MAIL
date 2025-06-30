@@ -67,9 +67,9 @@ node server.js
 
 ## 🔗 Live Demo
 
-* [Firefox Extension Link (if live)](https://addons.mozilla.org/...)
-* [Demo Video](https://drive.google.com/...)
-* [Backend Live URL (if deployed)](https://mailtracker-backend.vercel.app)
+* Video: https://drive.google.com/file/d/1hGQxEQ6iwJYuy7i9lY1Wwb_20nV0Zzgt/view?usp=sharing
+* Extention link: https://addons.mozilla.org/developers/addon/2923913/versions
+  (may be it will not work because of the approval from firefox taking time)
 
 ---
 
